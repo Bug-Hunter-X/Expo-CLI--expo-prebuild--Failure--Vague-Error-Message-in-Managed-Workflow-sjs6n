@@ -1,0 +1,3 @@
+# Expo CLI `expo prebuild` Failure: Vague Error Message
+
+This repository demonstrates a bug encountered while using the Expo CLI's `expo prebuild` command within a managed workflow project. The `expo prebuild` command unexpectedly fails without providing specific error messages, making debugging difficult.  The issue persists even after attempting standard troubleshooting steps such as cleaning the cache and reinstalling dependencies.  This repository provides examples of the problematic code (bug.js) and a potential solution (bugSolution.js).
